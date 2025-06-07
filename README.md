@@ -1,9 +1,16 @@
-# 💫 Hi, I'm Ashish 👋
-💻 Computer Engineering Student at PCCOE, Pune<br>🧑‍💻 Frontend Developer | C++ & DSA Enthusiast
+<div align="center">
+
+# 💫 Hi 👋, I'm Ashish
+
+💻 Frontend Developer | C++ & DSA Enthusiast
+
+🧑‍💻 Always curious | 🚀 Building projects | 💡 Learning something new every day
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-patil-915363289/)
+
+</div>
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ashish-patil-915363289/) 
 
 # 💻 Tech Stack:
 ### Languages
