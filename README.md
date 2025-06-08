@@ -10,7 +10,15 @@
 
 </div>
 
-
+## 📈 My Coding Journey
+<p align="left">
+<a href="https://www.codechef.com/users/ye_vedya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ye_vedya" height="30" width="40" /></a>&nbsp
+<a href="https://www.hackerrank.com/ashishtp2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ashishtp2005" height="30" width="40" /></a>&nbsp
+<a href="https://codeforces.com/profile/babuchaak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="babuchaak" height="30" width="40" /></a>&nbsp
+<a href="https://www.leetcode.com/ashishtp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashishtp" height="30" width="40" /></a>&nbsp
+<a href="https://auth.geeksforgeeks.org/user/ashisht06ur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ashisht06ur" height="30" width="40" /></a>&nbsp
+</p>
+<br/>
 
 # 💻 Tech Stack:
 ### Languages
