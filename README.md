@@ -22,5 +22,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashp15205&show_icons=true&locale=en" alt="ashp15205" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashp15205&" alt="ashp15205" /></p>
-![Uploading github-user-contribution.svg…]()
-
