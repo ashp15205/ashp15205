@@ -2,9 +2,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3800&pause=900&color=4FB3FF&center=true&vCenter=true&width=680&lines=Hi%20%F0%9F%91%8B%2C%20I%27m%20Ashish%20Patil;FULL-STACK%20AI%20ENGINEER%20%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
 
-
-### 🔵 *"A player who isn't selfish... is worthless."*
-
 <p align="center">
   <a href="https://ashish-patil-portfolio.vercel.app/"><img src="https://img.shields.io/badge/⚽_ENTER_THE_STADIUM-Portfolio-1E90FF?style=for-the-badge"/></a>
   <a href="https://github.com/ashp15205"><img src="https://img.shields.io/badge/🧤_TRAINING_GROUND-GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
