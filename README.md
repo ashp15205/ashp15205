@@ -1,10 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030614,50:0d47a1,100:4fb3ff&height=220&section=header&text=ASHISH%20PATIL&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=ENGINEERING%20EDITION&descAlignY=58&descSize=20&animation=fadeIn" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3800&pause=900&color=4FB3FF&center=true&vCenter=true&width=680&lines=Hi%20%F0%9F%91%8B%2C%20I%27m%20Ashish%20Patil;FULL-STACK%20AI%20ENGINEER%20%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=4FB3FF&center=true&vCenter=true&width=680&lines=EGO%3A+%22TURN+THIS+CODER+INTO+THE+WORLD'S+%231%22;SUBJECT%3A+ASHISH+PATIL+%E2%80%94+STATUS%3A+STILL+DEVOURING" alt="Typing SVG" />
 
-### 🔵 *"A striker who isn't selfish... is worthless."*
+### 🔵 *"A player who isn't selfish... is worthless."*
 
 <p align="center">
   <a href="https://ashish-patil-portfolio.vercel.app/"><img src="https://img.shields.io/badge/⚽_ENTER_THE_STADIUM-Portfolio-1E90FF?style=for-the-badge"/></a>
@@ -13,23 +12,23 @@
   <img src="https://komarev.com/ghpvc/?username=ashp15205&label=SCOUTS%20WATCHING&color=1e90ff&style=for-the-badge"/>
 </p>
 
-
 </div>
 
----
-
-## 🥅 PLAYER PROFILE
-
-<img src="./assets/nagi.png" width="200" align="right"/>
+## 📖 PLAYER PROFILE
 
 ```bash
 ashish@player:~$ cat player_stats.json
 ```
+
+<div align="center">
+<img src="./assets/nagi.png" width="400"/>
+</div>
+
 ```json
 {
   "name": "Ashish Patil",
   "position": "Full-Stack AI Engineer",
-  "flaw_ego_style": "Egoist Architect — builds the system, then breaks it to find the exploit",
+  "ego_style": "Egoist Architect — builds the system, then breaks it to find the exploit",
   "current_rank": "Top Tier (self-appointed, disputed by no one)",
   "weapon": ["LangChain", "FastAPI", "React", "Raw Spite"],
   "special_move": "DIRECT SECURITY OVERRIDE — patches vulnerabilities before they're seen",
@@ -37,12 +36,13 @@ ashish@player:~$ cat player_stats.json
 }
 ```
 
----
+
+<br>
 
 ## ⚡ MATCH HIGHLIGHTS — GOALS SCORED
-<img src="./assets/isagi.gif" width="270"/>
 
-### 🥇 GOAL #1 — `Guardian-Runtime` — AI Agent Security Proxy
+
+### 🥇 GOAL #1: [`Guardian-Runtime`](https://github.com/ashp15205/guardian-runtime) — AI Agent Security Proxy
 ```diff
 [GOAL SCORED] Intercepted every LLM prompt/response at the transport layer
 + 40–70% reduction in output token costs
@@ -50,26 +50,30 @@ ashish@player:~$ cat player_stats.json
 + On-device only — nothing leaves the pitch, nothing leaks
 ```
 
-### 🥇 GOAL #2 — `Scankii` — AI Agent Security Scanner
+### 🥇 GOAL #2: [`Scankii`](https://github.com/ashp15205/scankii) — AI Agent Security Scanner
 ```diff
 [GOAL SCORED] First scanner to jointly read code + natural language for AI-native threats
 + Precision 100% · Recall 68.2% · F1 81.1%  (SkillLeakBench, ASE 2026)
 + 1,000+ PyPI downloads · no sandbox required
 ```
 
-### 🥇 GOAL #3 — `CET Buddy` — College Predictor Platform
+### 🥇 GOAL #3: [`CET Buddy`](https://cet-buddy.vercel.app/) — College Predictor Platform
 ```diff
 [GOAL SCORED] Parsed 220,000+ real cutoff records, fully client-side, sub-second response
 + 1,000+ users · ~80% cut in research time · $0 server cost
 ```
 
-### 🥇 GOAL #4 — `KodeBattle` — Real-Time Competitive DSA Arena
+### 🥇 GOAL #4: [`KodeBattle`](https://kodebattle.vercel.app/) — Real-Time Competitive DSA Arena
 ```diff
 [GOAL SCORED] Real-time 1v1 competitive coding platform over persistent WebSockets
 + Elo-style rating system · live analytics · 3-strike anti-cheat enforcement
 ```
 
----
+<div align="center">
+<img src="./assets/isagi.gif" width="500"/>
+</div>
+<br>
+
 
 ## 🧠 WEAPON LOADOUT
 
@@ -81,7 +85,8 @@ ashish@player:~$ cat player_stats.json
 
 **AI / ML**
 <br>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/> <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/> <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge"/> <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white"/>
+
 
 **Backend**
 <br>
@@ -101,7 +106,6 @@ ashish@player:~$ cat player_stats.json
 
 </div>
 
----
 
 ## 📊 LIVE MATCH ANALYTICS
 
@@ -129,7 +133,9 @@ ashish@player:~$ cat achievements.log
 [RATED]      LeetCode Contest Rating 1627 | CodeChef 3★ (1635)
 ```
 
----
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ashp15205&theme=algolia&no-frame=true&column=4&margin-w=10&margin-h=10&title=Repositories,Stars,Commits,PullRequest" height="110"/>
+</div>
 
 <div align="center">
 
@@ -143,11 +149,11 @@ ashish@player:~$ ./status --open-to
 > AI / Agent Infrastructure
 > Backend Systems Architecture
 
-"The world's strongest striker isn't born.
+"The strongest player isn't born.
 He's the one left standing after everyone else is eliminated."
 ```
 
-<img src="./assets/player.gif" width="270"/>
+<img src="./assets/player.gif" width="500"/>
 
 **Scout me. I don't miss.**
 
