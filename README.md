@@ -33,9 +33,6 @@ ashish@player:~$ cat player_stats.json
 }
 ```
 
-
-<br>
-
 ## ⚡ MATCH HIGHLIGHTS — GOALS SCORED
 
 
@@ -69,7 +66,6 @@ ashish@player:~$ cat player_stats.json
 <div align="center">
 <img src="./assets/isagi.gif" width="500"/>
 </div>
-<br>
 
 
 ## 🧠 WEAPON LOADOUT
