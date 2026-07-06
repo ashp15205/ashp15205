@@ -64,12 +64,6 @@ ashish@player:~$ cat player_stats.json
 + Merged contributor to Awesome Vibe Coding Resources (235+⭐)
 ```
 
-### 🥇 GOAL #3: [`KodeBattle`](https://kodebattle.vercel.app/) — Real-Time Competitive DSA Arena
-```diff
-[GOAL SCORED] Real-time 1v1 competitive coding platform over persistent WebSockets
-+ Elo-style rating system · live analytics · 3-strike anti-cheat enforcement
-```
-
 <div align="center">
 <img src="./assets/isagi.gif" width="500"/>
 </div>
