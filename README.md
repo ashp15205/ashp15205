@@ -57,7 +57,14 @@ ashish@player:~$ cat player_stats.json
 + 1,000+ users · ~80% cut in research time · $0 server cost
 ```
 
-### 🥇 GOAL #4: [`KodeBattle`](https://kodebattle.vercel.app/) — Real-Time Competitive DSA Arena
+### 🥇 GOAL #4: [`Vibe Coding Essentials`](https://github.com/ashp15205/vibe-coding-essentials) — AI-Assisted Dev Workflow Framework
+```diff
+[GOAL SCORED] Built a structured workflow framework for AI-assisted development
++ 4 operating modes · 25 golden rules · anti-hallucination guardrails for 9 frameworks
++ Merged contributor to Awesome Vibe Coding Resources (235+⭐)
+```
+
+### 🥇 GOAL #3: [`KodeBattle`](https://kodebattle.vercel.app/) — Real-Time Competitive DSA Arena
 ```diff
 [GOAL SCORED] Real-time 1v1 competitive coding platform over persistent WebSockets
 + Elo-style rating system · live analytics · 3-strike anti-cheat enforcement
