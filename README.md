@@ -87,19 +87,7 @@ ashish@player:~$ cat player_stats.json
 
 ## 📡 TRANSFER WINDOW OPEN
 
-```bash
-ashish@player:~$ ./status --open-to
-```
-```
-> Full-Stack Engineering
-> AI / Agent Infrastructure
-> Backend Systems Architecture
-
-"The strongest player isn't born.
-He's the one left standing after everyone else is eliminated."
-```
-
-<img src="./assets/player.gif" width="500"/>
+<img src="./assets/isagi.gif" width="700"/>
 
 **Scout me. I don't miss.**
 
