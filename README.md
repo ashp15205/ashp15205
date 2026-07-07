@@ -32,8 +32,10 @@ ashish@player:~$ cat player_stats.json
 ```
 
 </td>
-<td width="38%" valign="middle" align="center">
+<td width="38%" align="center">
+<div align="center" style="display:flex; align-items:center; justify-content:center; height:100%;">
 <img src="./assets/nagi.png" width="100%"/>
+</div>
 </td>
 </tr>
 </table>
