@@ -67,20 +67,14 @@ ashish@player:~$ cat player_stats.json
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ashp15205&show_icons=true&theme=tokyonight&hide_border=true&bg_color=030614&title_color=4fb3ff&icon_color=4fb3ff&text_color=cfe8ff" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashp15205&theme=tokyonight&hide_border=true&background=030614&stroke=4fb3ff&ring=4fb3ff&fire=4fb3ff&currStreakLabel=4fb3ff" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashp15205&layout=compact&theme=tokyonight&hide_border=true&bg_color=030614&title_color=4fb3ff&text_color=cfe8ff" height="165"/>
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=ashp15205&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=ashp15205&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ashp15205&layout=compact&theme=github_dark)
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashp15205&theme=tokyo-night&bg_color=030614&color=4fb3ff&line=4fb3ff&point=ffffff&hide_border=true" width="90%"/>
 
 </div>
 
-
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ashp15205&theme=algolia&no-frame=true&column=4&margin-w=10&margin-h=10&title=Repositories,Stars,Commits,PullRequest" height="110"/>
-</div>
 
 
 <div align="center">
