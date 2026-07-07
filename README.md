@@ -33,36 +33,6 @@ ashish@player:~$ cat player_stats.json
 }
 ```
 
-## ⚡ MATCH HIGHLIGHTS — GOALS SCORED
-
-
-### 🥇 GOAL #1: [`Guardian-Runtime`](https://github.com/ashp15205/guardian-runtime) — AI Agent Security Proxy
-```diff
-[GOAL SCORED] Intercepted every LLM prompt/response at the transport layer
-+ 40–70% reduction in output token costs
-+ 3,000+ PyPI downloads · 20⭐
-+ On-device only — nothing leaves the pitch, nothing leaks
-```
-
-### 🥇 GOAL #2: [`Scankii`](https://github.com/ashp15205/scankii) — AI Agent Security Scanner
-```diff
-[GOAL SCORED] First scanner to jointly read code + natural language for AI-native threats
-+ Precision 100% · Recall 68.2% · F1 81.1%  (SkillLeakBench, ASE 2026)
-+ 1,000+ PyPI downloads · no sandbox required
-```
-
-### 🥇 GOAL #3: [`CET Buddy`](https://cet-buddy.vercel.app/) — College Predictor Platform
-```diff
-[GOAL SCORED] Parsed 220,000+ real cutoff records, fully client-side, sub-second response
-+ 1,000+ users · ~80% cut in research time · $0 server cost
-```
-
-### 🥇 GOAL #4: [`Vibe Coding Essentials`](https://github.com/ashp15205/vibe-coding-essentials) — AI-Assisted Dev Workflow Framework
-```diff
-[GOAL SCORED] Built a structured workflow framework for AI-assisted development
-+ 4 operating modes · 25 golden rules · anti-hallucination guardrails for 9 frameworks
-+ Merged contributor to Awesome Vibe Coding Resources (235+⭐)
-```
 
 <div align="center">
 <img src="./assets/isagi.gif" width="500"/>
@@ -115,17 +85,6 @@ ashish@player:~$ cat player_stats.json
 </div>
 
 
-## 🏆 SELECTION RANKING BOARD
-
-```bash
-ashish@player:~$ cat achievements.log
-```
-```
-[MERGED]     Vibe Coding Essentials → Awesome Vibe Coding Resources (235+⭐)
-[RECOGNIZED] Pulled into architecture discussions by Microsoft AutoGen community
-[PUBLISHED]  Research: AI-powered certificate verification (OCR + Deep Learning + Blockchain)
-[RATED]      LeetCode Contest Rating 1627 | CodeChef 3★ (1635)
-```
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=ashp15205&theme=algolia&no-frame=true&column=4&margin-w=10&margin-h=10&title=Repositories,Stars,Commits,PullRequest" height="110"/>
