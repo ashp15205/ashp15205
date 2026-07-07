@@ -16,9 +16,9 @@
 ashish@player:~$ cat player_stats.json
 ```
 
-<table>
-<tr>
-<td width="35%" valign="top">
+<div align="center">
+<img src="./assets/nagi.png" width="320"/>
+</div>
 
 ```json
 {
@@ -30,16 +30,6 @@ ashish@player:~$ cat player_stats.json
   "status": "SURVIVED THE SELECTION. STILL ON THE FIELD."
 }
 ```
-
-</td>
-<td width="65%" align="center">
-<div align="center" style="align-items:center; justify-content:center; height:100%;">
-<img src="./assets/nagi.png" width="100%"/>
-</div>
-</td>
-</tr>
-</table>
-
 
 ## 🧠 WEAPON LOADOUT
 
