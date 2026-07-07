@@ -18,7 +18,7 @@ ashish@player:~$ cat player_stats.json
 
 <table>
 <tr>
-<td width="62%" valign="top">
+<td width="35%" valign="top">
 
 ```json
 {
@@ -32,8 +32,8 @@ ashish@player:~$ cat player_stats.json
 ```
 
 </td>
-<td width="38%" align="center">
-<div align="center" style="display:flex; align-items:center; justify-content:center; height:100%;">
+<td width="65%" align="center">
+<div align="center" style="align-items:center; justify-content:center; height:100%;">
 <img src="./assets/nagi.png" width="100%"/>
 </div>
 </td>
