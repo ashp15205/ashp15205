@@ -12,14 +12,13 @@
 </div>
 
 ## 📖 PLAYER PROFILE
-
 ```bash
 ashish@player:~$ cat player_stats.json
 ```
 
-<div align="center">
-<img src="./assets/nagi.png" width="400"/>
-</div>
+<table>
+<tr>
+<td width="55%" valign="top">
 
 ```json
 {
@@ -32,6 +31,13 @@ ashish@player:~$ cat player_stats.json
   "status": "SURVIVED THE SELECTION. STILL ON THE FIELD."
 }
 ```
+
+</td>
+<td width="45%" valign="top" align="center">
+<img src="./assets/nagi.png" width="690"/>
+</td>
+</tr>
+</table>
 
 
 <div align="center">
