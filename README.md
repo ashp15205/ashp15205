@@ -18,31 +18,25 @@ ashish@player:~$ cat player_stats.json
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="62%" valign="top">
 
 ```json
 {
   "name": "Ashish Patil",
   "position": "Full-Stack AI Engineer",
   "ego_style": "Egoist Architect — builds the system, then breaks it to find the exploit",
-  "current_rank": "Top Tier (self-appointed, disputed by no one)",
-  "weapon": ["LangChain", "FastAPI", "React", "Raw Spite"],
-  "special_move": "DIRECT SECURITY OVERRIDE — patches vulnerabilities before they're seen",
+  "current_rank": "B.Tech Computer Engineering",
+  "arsenal": ["LangChain", "LangGraph", "FastAPI", "React.js", "Next.js", "PostgreSQL", "AWS"],
   "status": "SURVIVED THE SELECTION. STILL ON THE FIELD."
 }
 ```
 
 </td>
-<td width="45%" valign="top" align="center">
-<img src="./assets/nagi.png" width="690"/>
+<td width="38%" valign="middle" align="center">
+<img src="./assets/nagi.png" width="100%"/>
 </td>
 </tr>
 </table>
-
-
-<div align="center">
-<img src="./assets/isagi.gif" width="500"/>
-</div>
 
 
 ## 🧠 WEAPON LOADOUT
@@ -95,6 +89,7 @@ ashish@player:~$ cat player_stats.json
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=ashp15205&theme=algolia&no-frame=true&column=4&margin-w=10&margin-h=10&title=Repositories,Stars,Commits,PullRequest" height="110"/>
 </div>
+
 
 <div align="center">
 
