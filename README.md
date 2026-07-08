@@ -26,7 +26,7 @@ ashish@player:~$ cat player_stats.json
   "position": "Full-Stack AI Engineer",
   "ego_style": "Egoist Architect — builds the system, then breaks it to find the exploit",
   "current_rank": "B.Tech Computer Engineering",
-  "arsenal": ["LangChain", "LangGraph", "FastAPI", "React.js", "Next.js", "PostgreSQL", "AWS"],
+  "arsenal": ["React.js", "Next.js", "PostgreSQL", "AWS", "FastAPI", "LangChain", "LangGraph"],
   "status": "SURVIVED THE SELECTION. STILL ON THE FIELD."
 }
 ```
