@@ -71,7 +71,6 @@ ashish@player:~$ cat player_stats.json
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=ashp15205&theme=github_dark)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ashp15205&layout=compact&theme=github_dark)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashp15205&theme=tokyo-night&bg_color=030614&color=4fb3ff&line=4fb3ff&point=ffffff&hide_border=true" width="90%"/>
 
 </div>
 
