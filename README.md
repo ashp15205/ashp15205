@@ -20,17 +20,6 @@ ashish@player:~$ cat player_stats.json
 <img src="./assets/nagi.png" width="320"/>
 </div>
 
-```json
-{
-  "name": "Ashish Patil",
-  "position": "Full-Stack AI Engineer",
-  "ego_style": "Egoist Architect — builds the system, then breaks it to find the exploit",
-  "current_rank": "B.Tech Computer Engineering",
-  "arsenal": ["React.js", "Next.js", "PostgreSQL", "AWS", "FastAPI", "LangChain", "LangGraph"],
-  "status": "SURVIVED THE SELECTION. STILL ON THE FIELD."
-}
-```
-
 ## 🧠 WEAPON LOADOUT
 
 <div align="center">
