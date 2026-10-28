@@ -52,12 +52,11 @@ ashish@player:~$ cat player_stats.json
 </div>
 
 
-## 📊 LIVE MATCH ANALYTICS
+## 📊 STATISTICS
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=ashp15205&show_icons=true&theme=github_dark)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=ashp15205&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=ashp15205&show_icons=true&theme=github_dark) <BR>
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ashp15205&layout=compact&theme=github_dark)
 
 
@@ -67,7 +66,7 @@ ashish@player:~$ cat player_stats.json
 
 <div align="center">
 
-## 📡 TRANSFER WINDOW OPEN
+## TRANSFER WINDOW OPEN
 
 <img src="./assets/isagi.gif" width="700"/>
 
