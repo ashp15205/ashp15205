@@ -1,77 +1,72 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3800&pause=900&color=4FB3FF&center=true&vCenter=true&width=680&lines=Hi%20%F0%9F%91%8B%2C%20I%27m%20Ashish%20Patil;FULL-STACK%20AI%20ENGINEER%20%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:030614,50:0d47a1,100:4fb3ff&height=200&section=header&text=ASHISH%20PATIL&fontSize=60&fontColor=ffffff&fontAlignY=45&animation=fadeIn&desc=FULL-STACK%20AI%20ENGINEER&descAlignY=68&descSize=20" width="100%"/>
 
-<p align="center">
+<img src="https://img.shields.io/badge/BACKEND-0d47a1?style=for-the-badge"/> <img src="https://img.shields.io/badge/FULL--STACK-0d47a1?style=for-the-badge"/> <img src="https://img.shields.io/badge/AI_ENGINEER-0d47a1?style=for-the-badge"/> <img src="https://img.shields.io/badge/FDE-0d47a1?style=for-the-badge"/>
 
-  <a href="https://github.com/ashp15205"><img src="https://img.shields.io/badge/🧤_TRAINING_GROUND-GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/ashishpatil2005"><img src="https://img.shields.io/badge/📋_SCOUT_REPORT-LinkedIn-0077B5?style=for-the-badge"/></a>
-  <img src="https://komarev.com/ghpvc/?username=ashp15205&label=SCOUTS%20WATCHING&color=1e90ff&style=for-the-badge"/>
-</p>
+<br>
+
+<img src="./assets/nagi.png" width="340"/>
 
 </div>
 
-## 📖 PLAYER PROFILE
-```bash
-ashish@player:~$ cat player_stats.json
-```
-
-<div align="center">
-<img src="./assets/nagi.png" width="320"/>
-</div>
-
-## 🧠 WEAPON LOADOUT
-
 <div align="center">
 
-**Languages**
+## 🪄 TECH STACK
+
+
+**🧠 AI**
 <br>
-<img src="https://skillicons.dev/icons?i=cpp,py,js,ts&theme=dark" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/> <img src="https://img.shields.io/badge/RAG-0d47a1?style=for-the-badge"/> <img src="https://img.shields.io/badge/MCP-0d47a1?style=for-the-badge"/> <img src="https://img.shields.io/badge/AI_Agents-0d47a1?style=for-the-badge"/> <img src="https://img.shields.io/badge/Guardrails-0d47a1?style=for-the-badge"/> <img src="https://img.shields.io/badge/LLM_Gateways-0d47a1?style=for-the-badge"/>
 
-**AI / ML**
-<br>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/> <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge"/> <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white"/>
-
-
-**Backend**
+**⚙️ Backend**
 <br>
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" />
 
-**Frontend**
+**☁️ Cloud & DevOps**
 <br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,docker,git,githubactions&theme=dark" />
 
-**Databases**
-<br>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,supabase&theme=dark" />
+<img src="./assets/isagi.gif" width="450"/>
+</div>
 
-**Cloud & DevOps**
-<br>
-<img src="https://skillicons.dev/icons?i=aws,gcp,git,githubactions,linux&theme=dark" />
+<div align="center">
+
+## 🛡️ NOTABLE PROJECT: [GUARDIAN-RUNTIME](https://github.com/ashp15205/Guardian-Runtime)
+
+
+<a href="https://github.com/ashp15205/Guardian-Runtime"><img src="https://img.shields.io/badge/GITHUB-REPO-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://pypi.org/project/guardian-runtime/"><img src="https://img.shields.io/badge/PyPI_DOWNLOADS-12,000+-4fb3ff?style=for-the-badge&logo=pypi&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/GITHUB_STARS-20-0d47a1?style=for-the-badge&logo=github&logoColor=white"/>
+
+</div>
+
+> **A local runtime firewall for AI agents.** Every LLM prompt and response is intercepted at the transport layer, inspected and governed entirely on-device, before any data leaves your machine.
+
+<div align="center">
+
+```text
+┌─────────┐                ┌─────────────────────────────┐                ┌───────────────┐
+│  Agent  │ ─ prompt ─────>│      GUARDIAN-RUNTIME       │ clean prompt ─>│ LLM Provider  │
+│         │ <─ safe reply ─│ * FinOps budget enforcer    │ <─ response ───│ OpenAI/Gemini │
+│         │                │ * Credential leak blocker   │                │    /Claude    │
+│         │                │ * Token compression         │                │               │
+└─────────┘                └────── 100% on-device ───────┘                └───────────────┘
+```
 
 </div>
 
 
-## 📊 STATISTICS
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=ashp15205&show_icons=true&theme=github_dark) <BR>
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ashp15205&layout=compact&theme=github_dark)
+## 📡 CONTACT ME
+
+<a href="https://linkedin.com/in/ashishpatil2005"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<br>
+<img src="./assets/player.gif" width="480"/>
 
 
-</div>
-
-
-
-<div align="center">
-
-## TRANSFER WINDOW OPEN
-
-<img src="./assets/isagi.gif" width="700"/>
-
-**Scout me. I don't miss.**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4fb3ff,50:0d47a1,100:030614&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4fb3ff,50:0d47a1,100:030614&height=100&section=footer" width="100%"/>
 
 </div>
