@@ -36,7 +36,7 @@
 
 
 <a href="https://github.com/ashp15205/Guardian-Runtime"><img src="https://img.shields.io/badge/GITHUB-REPO-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://pypi.org/project/guardian-runtime/"><img src="https://img.shields.io/badge/PyPI_DOWNLOADS-12,000+-4fb3ff?style=for-the-badge&logo=pypi&logoColor=white"/></a>
+<a href="https://pypi.org/project/guardian-runtime/"><img src="https://img.shields.io/badge/PyPI_DOWNLOADS-14,000+-4fb3ff?style=for-the-badge&logo=pypi&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/GITHUB_STARS-20-0d47a1?style=for-the-badge&logo=github&logoColor=white"/>
 
 </div>
