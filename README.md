@@ -16,6 +16,10 @@
 <br>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/> <img src="https://img.shields.io/badge/RAG-0d47a1?style=for-the-badge"/> <img src="https://img.shields.io/badge/MCP-0d47a1?style=for-the-badge"/> <img src="https://img.shields.io/badge/AI_Agents-0d47a1?style=for-the-badge"/> <img src="https://img.shields.io/badge/Guardrails-0d47a1?style=for-the-badge"/> <img src="https://img.shields.io/badge/LLM_Gateways-0d47a1?style=for-the-badge"/>
 
+**💻 Languages**
+<br>
+<img src="https://skillicons.dev/icons?i=py,js,ts,cpp,postgres&theme=dark" />
+
 **⚙️ Backend**
 <br>
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" />
