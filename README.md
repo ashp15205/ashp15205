@@ -59,6 +59,5 @@
 
 <a href="https://linkedin.com/in/ashishpatil2005"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <br>
-<img src="./assets/player.gif" width="480"/>
 
 </div>
