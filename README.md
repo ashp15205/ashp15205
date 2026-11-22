@@ -4,9 +4,6 @@
 
 <img src="https://img.shields.io/badge/BACKEND-0d47a1?style=for-the-badge"/> <img src="https://img.shields.io/badge/FULL--STACK-0d47a1?style=for-the-badge"/> <img src="https://img.shields.io/badge/AI_ENGINEER-0d47a1?style=for-the-badge"/> <img src="https://img.shields.io/badge/FDE-0d47a1?style=for-the-badge"/>
 
-<br>
-
-<img src="./assets/nagi.png" width="340"/>
 
 </div>
 
