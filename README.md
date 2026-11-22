@@ -26,8 +26,6 @@
 **☁️ Cloud & DevOps**
 <br>
 <img src="https://skillicons.dev/icons?i=aws,docker,git,githubactions&theme=dark" />
-
-<img src="./assets/isagi.gif" width="450"/>
 </div>
 
 <div align="center">
@@ -65,8 +63,5 @@
 <a href="https://linkedin.com/in/ashishpatil2005"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <br>
 <img src="./assets/player.gif" width="480"/>
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4fb3ff,50:0d47a1,100:030614&height=100&section=footer" width="100%"/>
 
 </div>
