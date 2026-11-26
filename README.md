@@ -16,7 +16,7 @@
 - **[KodeBattle](https://kodebattle.vercel.app/)** - Real-time 1v1 DSA competitive coding arena built with React, Node.js, WebSockets, and Firestore Elo analytics.
 
 
-#### Contributing to
+#### Contributed to
 
 - **[fast-anything](https://github.com/EL4CTEO/fast-anything)** [![GitHub stars](https://img.shields.io/github/stars/EL4CTEO/fast-anything?style=flat&color=gold)](https://github.com/EL4CTEO/fast-anything) - Merged 3 PRs (`#1`, `#22`, [PR #76](https://github.com/EL4CTEO/fast-anything/pull/76)) implementing the Rust CLI `clean` subcommand with atomic rollback safety guards, plus Python PyO3 `bytes`/kwargs fixes and Node.js `napi-rs` `TypedArray`/`Buffer` serialization.
 - **[claude-skills](https://github.com/alirezarezvani/claude-skills)** [![GitHub stars](https://img.shields.io/github/stars/alirezarezvani/claude-skills?style=flat&color=gold)](https://github.com/alirezarezvani/claude-skills) - Merged [PR #904](https://github.com/alirezarezvani/claude-skills/pull/904) adding `minimalist` and `strict-api` engineering skills to enforce deterministic SDK usage and prevent unrequested code bloat.
