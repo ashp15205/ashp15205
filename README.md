@@ -13,8 +13,7 @@
 - **[Guardian-Runtime](https://github.com/ashp15205/guardian-runtime)** [![GitHub stars](https://img.shields.io/github/stars/ashp15205/guardian-runtime?style=flat&color=gold)](https://github.com/ashp15205/guardian-runtime) - Local-first FastAPI LLM runtime firewall and proxy ([docs](https://ashp15205.github.io/guardian-runtime/)) with **14,000+ PyPI downloads** — cuts output token spend by 40–70% across OpenAI, Gemini, and Claude while blocking credential leaks and enforcing per-request FinOps budgets.
 - **[Vibe Coding Essentials](https://github.com/ashp15205/vibe-coding-essentials)** [![GitHub stars](https://img.shields.io/github/stars/ashp15205/vibe-coding-essentials?style=flat&color=gold)](https://github.com/ashp15205/vibe-coding-essentials) - Anti-bloat and session-recovery guardrails for AI coding agents, benchmarked on Qwen 3 8B (19–45% less context bloat and up to 60% token savings).
 - **[Scankii](https://github.com/ashp15205/scankii)** [![GitHub stars](https://img.shields.io/github/stars/ashp15205/scankii?style=flat&color=gold)](https://github.com/ashp15205/scankii) - Static and runtime pre-deployment security scanner for LLM agent skills and MCP supply chains (**4,000+ PyPI downloads**; 100% precision, 68.2% recall, 81.1% F1 on SkillLeakBench).
-- **[KodeBattle](https://kodebattle.vercel.app/)** - Real-time 1v1 DSA competitive coding arena built with React, Node.js, WebSockets, and Firestore Elo analytics.
-
+- **[KodeBattle](https://kodebattle.vercel.app/)** - real-time, 1v1 competitive DSA quiz platform where you compete head-to-head on algorithmic problems under strict time pressure.
 
 #### Contributed to
 
