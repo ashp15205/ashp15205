@@ -1,8 +1,5 @@
 ### Hey, I'm Ashish Patil
-
-1. Full-Stack & AI Systems Engineer building **LLM runtime firewalls, agent security scanners, and developer tooling**.
-2. Creator of **[Guardian-Runtime](https://ashp15205.github.io/guardian-runtime/)** and **[Scankii](https://github.com/ashp15205/scankii)** — **18,000+ combined organic PyPI downloads** for cutting LLM token overhead (40–70%) and catching unsafe MCP/agent skills before deployment.
-3. Researching **LLM internals and activation steering** — exploring Layer-16 steering to mitigate role confusion and Chain-of-Thought forgery.
+- Full-Stack & AI Systems Engineer building **LLM runtime firewalls, agent security scanners, and developer tooling**.
 
 #### Building
 
@@ -12,6 +9,7 @@
 
 #### Contributed to
 
+- **[rea-games](https://github.com/erkamyaman/rea-games)** [![GitHub stars](https://img.shields.io/github/stars/erkamyaman/rea-games?style=flat&color=gold)](https://github.com/erkamyaman/rea-games) - Merged 2 PRs improving web accessibility and build tooling: restored pinch-to-zoom and consistent Open Graph metadata across game pages, and fixed JavaScript bundling for imports with trailing comments with regression coverage.
 - **[REA: Reverse Engineer Anything](https://github.com/morluto/rea)** [![GitHub stars](https://img.shields.io/github/stars/morluto/rea?style=flat&color=gold)](https://github.com/morluto/rea) - Merged 2 PRs fixing cross-platform Win32/trailing-backslash path normalization in `fxLocation` setup and adding static semantic `options.port` validation across `net.connect` / `net.createConnection` / `tls.connect` resource tracking with regression coverage.
 - **[fast-anything](https://github.com/EL4CTEO/fast-anything)** [![GitHub stars](https://img.shields.io/github/stars/EL4CTEO/fast-anything?style=flat&color=gold)](https://github.com/EL4CTEO/fast-anything) - Merged 3 PRs implementing the Rust CLI `clean` subcommand with atomic rollback safety guards, plus Python PyO3 `bytes`/kwargs fixes and Node.js `napi-rs` `TypedArray`/`Buffer` serialization.
 - **[claude-skills](https://github.com/alirezarezvani/claude-skills)** [![GitHub stars](https://img.shields.io/github/stars/alirezarezvani/claude-skills?style=flat&color=gold)](https://github.com/alirezarezvani/claude-skills) - adding `minimalist` and `strict-api` engineering skills to enforce deterministic SDK usage and prevent unrequested code bloat.
